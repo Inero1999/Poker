@@ -1,0 +1,5 @@
+﻿  14.07_Poker.cpp
+  Player.cpp
+C:\Users\student\source\repos\erokhin AK\14.07_Poker\Player.cpp(21,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  14.07_Poker.vcxproj -> C:\Users\student\source\repos\erokhin AK\14.07_Poker\Debug\14.07_Poker.exe
